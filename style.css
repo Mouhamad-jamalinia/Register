@@ -17,7 +17,6 @@ body{
 }
 .formsection{
     text-align: center;
-    padding-left: 55px;
 }
 .formsection .halfinput{
     text-align: justify;
@@ -25,8 +24,14 @@ body{
     width: 45%;
 }
 input{
+    width: 100%;
     border: none;
     background-color: black;
     border-radius: 10px;
     height: 25px;
+}
+.emailsection {
+     text-align: justify;
+    display: inline-block;
+    width: 90%;
 }
