@@ -15,3 +15,11 @@ body{
 .registersection span{
     color: red;
 }
+.formsection{
+    text-align: center;
+}
+.halfinput{
+    text-align: justify;
+    display: inline-block;
+    width: 50%;
+}
