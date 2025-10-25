@@ -54,3 +54,15 @@ input{
     width: 90%;
     margin-top: 15px;
 }
+.checkbox{
+    text-align: justify;
+    display: inline-block;
+    width: 90%;
+    margin-top: 10px;
+    font-size: 10px;
+    vertical-align: super;
+}
+.checkboxinput{
+    width: 12px;
+    vertical-align:sub;
+}
