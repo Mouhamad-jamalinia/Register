@@ -36,3 +36,21 @@ input{
     width: 90%;
     margin-top: 15px;
 }
+.retypeemailsection{
+    text-align: justify;
+    display: inline-block;
+    width: 90%;
+    margin-top: 15px;
+}
+.Passwordsection{
+    text-align: justify;
+    display: inline-block;
+    width: 90%;
+    margin-top: 15px;
+}
+.retypepasswordsection{
+    text-align: justify;
+    display: inline-block;
+    width: 90%;
+    margin-top: 15px;
+}
