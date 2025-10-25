@@ -24,7 +24,7 @@ body{
     width: 45%;
 }
 input{
-    width: 100%;
+    width: 95%;
     border: none;
     background-color: black;
     border-radius: 10px;
@@ -34,4 +34,5 @@ input{
      text-align: justify;
     display: inline-block;
     width: 90%;
+    margin-top: 15px;
 }
