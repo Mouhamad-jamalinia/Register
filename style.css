@@ -29,6 +29,7 @@ input{
     background-color: black;
     border-radius: 10px;
     height: 25px;
+    color: aliceblue;
 }
 .emailsection {
      text-align: justify;
@@ -79,3 +80,7 @@ button{
     width: 50%;
     margin-top: 15px;
 } */
+ .registersection ::placeholder{
+    color: rgba(255, 250, 250, 0.709);
+    text-align: right;
+ }
