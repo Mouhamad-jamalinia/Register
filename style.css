@@ -3,8 +3,7 @@ body{
     text-align:center;
 }
 .registersection{
-    width: 500px;
-    height: 700px;
+    width:30%;
     background-color:white;
     display: inline-block;
     text-align: justify;
@@ -83,4 +82,23 @@ button{
  .registersection ::placeholder{
     color: rgba(255, 250, 250, 0.709);
     text-align: right;
+ }
+ .radilbox{
+    width: 10px;
+    text-align: center;
+
+ }
+ .gclass{
+    margin-left: 20px;
+    background-color: black;
+    margin-top: 15px;
+    width: 90%;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 14px;
+    text-align: left;
+    padding: 5px;
+ }
+ .gclass .radioboox {
+    /* text-align: center; */
  }
